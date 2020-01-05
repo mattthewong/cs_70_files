@@ -1,0 +1,20 @@
+ChunkyString/chunkystring.hpp, line 218:
+  - Is 99 characters long (> 80)
+ChunkyString/chunkystring.hpp, line 260:
+  - Is 89 characters long (> 80)
+ChunkyString/chunkystring.hpp, line 261:
+  - Is 90 characters long (> 80)
+ChunkyString/chunkystring.hpp, line 264:
+  - Is 89 characters long (> 80)
+ChunkyString/chunkystring.hpp, line 265:
+  - Is 90 characters long (> 80)
+ChunkyString/chunkystring.cpp, line 131:
+  - Is 103 characters long (> 80)
+ChunkyString/chunkystring.cpp, line 156:
+  - Is 84 characters long (> 80)
+ChunkyString/iterator-private.hpp, line 28:
+  - Is 116 characters long (> 80)
+ChunkyString/iterator-private.hpp, line 41:
+  - Is 116 characters long (> 80)
+ChunkyString/iterator-private.hpp, line 64:
+  - Is 90 characters long (> 80)

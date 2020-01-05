@@ -1,0 +1,47 @@
+example test passed!
+FAILURE (after 0 passes): stringtest-grading.cpp:233:	(control<checkChr127)==(test<chunkyChr127)
+FAILURE (after 0 passes): stringtest-grading.cpp:234:	(checkChr127<control) == (chunkyChr127 < test)
+
+Summary of affirmation failures for default constructor test
+----
+Fails	/ Total	Issue
+1	/ 1	stringtest-grading.cpp:233:	(control<checkChr127)==(test<chunkyChr127)
+1	/ 1	stringtest-grading.cpp:234:	(checkChr127<control) == (chunkyChr127 < test)
+
+FAILURE (after 0 passes): stringtest-grading.cpp:1244:	defaultConstructorTest()
+FAILURE (after 0 passes): stringtest-grading.cpp:223:	(control < checkChr0) == (test < chunkyChr0)
+FAILURE (after 0 passes): stringtest-grading.cpp:224:	(checkChr0 < control) == (chunkyChr0 < test)
+FAILURE (after 0 passes): stringtest-grading.cpp:233:	(control<checkChr127)==(test<chunkyChr127)
+FAILURE (after 0 passes): stringtest-grading.cpp:234:	(checkChr127<control) == (chunkyChr127 < test)
+FAILURE (after 0 passes): stringtest-grading.cpp:263:	(sControl < fControl) == (second < first)
+FAILURE (after 2 passes): stringtest-grading.cpp:191:	control.size() == test.size()
+FAILURE (after 2 passes): stringtest-grading.cpp:193:	stringFrom(control) == stringFrom(test)
+FAILURE (after 2 passes): stringtest-grading.cpp:194:	control == stringFrom(test)
+FAILURE (after 25 passes): stringtest-grading.cpp:201:	*cIter == *tIter
+FAILURE (after 0 passes): stringtest-grading.cpp:210:	*cIter == *tIter
+FAILURE (after 0 passes): stringtest-grading.cpp:167:	test==copy
+FAILURE (after 0 passes): stringtest-grading.cpp:176:	test == copy
+
+Summary of affirmation failures for copy constructor test
+----
+Fails	/ Total	Issue
+2	/ 2	stringtest-grading.cpp:167:	test==copy
+2	/ 2	stringtest-grading.cpp:176:	test == copy
+4	/ 8	stringtest-grading.cpp:191:	control.size() == test.size()
+2	/ 8	stringtest-grading.cpp:193:	stringFrom(control) == stringFrom(test)
+2	/ 8	stringtest-grading.cpp:194:	control == stringFrom(test)
+81	/ 1812	stringtest-grading.cpp:201:	*cIter == *tIter
+81	/ 1812	stringtest-grading.cpp:210:	*cIter == *tIter
+8	/ 8	stringtest-grading.cpp:223:	(control < checkChr0) == (test < chunkyChr0)
+8	/ 8	stringtest-grading.cpp:224:	(checkChr0 < control) == (chunkyChr0 < test)
+8	/ 8	stringtest-grading.cpp:233:	(control<checkChr127)==(test<chunkyChr127)
+8	/ 8	stringtest-grading.cpp:234:	(checkChr127<control) == (chunkyChr127 < test)
+2	/ 4	stringtest-grading.cpp:263:	(sControl < fControl) == (second < first)
+
+FAILURE (after 0 passes): stringtest-grading.cpp:1245:	copyConstructorTest()
+FAILURE (after 0 passes): stringtest-grading.cpp:223:	(control < checkChr0) == (test < chunkyChr0)
+FAILURE (after 0 passes): stringtest-grading.cpp:224:	(checkChr0 < control) == (chunkyChr0 < test)
+FAILURE (after 1 passes): stringtest-grading.cpp:233:	(control<checkChr127)==(test<chunkyChr127)
+FAILURE (after 1 passes): stringtest-grading.cpp:234:	(checkChr127<control) == (chunkyChr127 < test)
+FAILURE (after 0 passes): stringtest-grading.cpp:262:	(fControl < sControl) == (first < second)
+FAILURE (after 0 passes): stringtest-grading.cpp:400:	rhs < lhsPush
